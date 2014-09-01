@@ -6,6 +6,6 @@ public class HelloWorld
     main(String[] args)
   {
     System.out.println("Hello, GitHub! (I think...?)");
-    System.out.println("Hello, GitHub! (I think...?) x2");
+    System.out.println("Hello, GitHub! (I think...?) X2");
   }
 }
